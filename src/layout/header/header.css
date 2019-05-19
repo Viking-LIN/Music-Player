@@ -1,0 +1,10 @@
+.header{
+    width: 70%;
+    height: auto;
+    position: fixed;
+    background-color: black;
+    color: white;
+}
+.header-title{
+    margin: 5px;
+}

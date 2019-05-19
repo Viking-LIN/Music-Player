@@ -1,0 +1,27 @@
+.Songsheet{
+    width: 15%;
+  
+    margin: 2% ;
+       
+    .imgContainer{
+        width: 100%;
+        height: 100%;
+        img{
+            height: 100%;
+            width: 100%;
+            border-radius: 5%;
+        }
+        
+    }  
+    
+    .title{
+        position: relative;
+        top: -22px;
+        height: 20px;
+        overflow: hidden;
+        text-align: center;
+        color: white;
+        font-size: 15px;
+    }
+
+}
